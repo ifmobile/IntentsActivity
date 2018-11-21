@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intents e Activity</string>
+    <string name="param1">Parâmetro 1</string>
+    <string name="param2">Parâmetro 2</string>
+    <string name="enviar">Enviar</string>
+    <string name="requisitar">Requisitar</string>
+    <string name="fechar">Fechar</string>
+
+</resources>
